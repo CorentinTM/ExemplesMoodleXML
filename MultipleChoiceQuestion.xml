@@ -12,6 +12,21 @@
 		</feedback>
 	</answer>
 	<answer fraction="0">
+<<<<<<< HEAD
+		<text>Une mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>x
+	</answer>
+    	<answer fraction="0">
+		<text>Une mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>x
+	</answer>
+	<answer fraction="0">
+=======
+>>>>>>> dev/test
 		<text>Une autre mauvaise réponse</text>
 		<feedback>
 			<text>Ooops!</text>
